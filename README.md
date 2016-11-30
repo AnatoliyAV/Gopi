@@ -20,3 +20,6 @@ Modern &amp; Responsive Vanilla Forum Theme
 * Integrated plugin 'All Viewed'
 
 **It is completely free.**
+
+[DEMO](http://gopi.wptolik.com/)
+ 
