@@ -16,8 +16,6 @@ Modern &amp; Responsive Vanilla Forum Theme
 * Page load progress bar
 * Button Back to Top
 * Supported icons for popular plugins
-* Integrated plugin 'Avatar First Letter'
-* Integrated plugin 'All Viewed'
 
 **It is completely free.**
 
