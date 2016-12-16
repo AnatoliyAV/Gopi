@@ -451,6 +451,9 @@ option {
     white-space: pre;
     padding: 5px;
 }
+#search input[type="text"] {
+ height: auto;
+}
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -3037,7 +3040,7 @@ body.embed #Content {
     font-weight: 300;
     text-align: center;
     outline: none;
-    padding: 30px;
+    padding: 5px;
     border-radius: 0;
     color: #fff;
 }
