@@ -3302,7 +3302,7 @@ text-transform: inherit;
 }
 
 .Hijack.Bookmark, .SpFlyoutHandle, .ReactButton, .Reactions .Quote, .RatingContainer a {visibility: hidden;}
-.Hijack.Bookmarked, .Item:hover .Hijack.Bookmark, .Item:hover .SpFlyoutHandle, .MessageList.Discussion:hover .SpFlyoutHandle, .MessageList.Discussion:hover .ReactButton, .Item:hover  .ReactButton, .Item:hover .Quote, .Item:hover .RatingContainer a {visibility: visible;}
+.Hijack.Bookmarked, .Item:hover .Hijack.Bookmark, .Item:hover .SpFlyoutHandle, .MessageList.Discussion:hover .SpFlyoutHandle, .MessageList.Discussion:hover .ReactButton, .Item:hover  .ReactButton, .Item:hover .Quote, .Item:hover .RatingContainer a, .MessageList.Discussion:hover .Hijack.Bookmark {visibility: visible;}
 .Hijack.Bookmark, .Hijack.Bookmarked {
     float: right;
 	padding-right: 7px; 
