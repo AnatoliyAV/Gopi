@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {asset name="Head"}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:100,400,600" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 </head>
 <body id="{$BodyID}" class="{$BodyClass}">
     <div class="Head" id="Head">
